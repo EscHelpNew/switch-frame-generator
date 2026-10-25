@@ -1,0 +1,2 @@
+Mako==1.4.3
+MarkupSafe==3.0.4

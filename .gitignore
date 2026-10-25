@@ -1,0 +1,15 @@
+# User-provided binaries and locally generated shader caches.
+Lossless.dll
+*.dll
+/build/
+/data/
+/project.json
+/third_party/.downloads/
+__pycache__/
+*.pyc
+*.nro
+*.elf
+*.o
+*.dksh
+*.rgba
+*.log
